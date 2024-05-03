@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drawCard/static/css/main.21c6c6b3.css",
+    "main.js": "/drawCard/static/js/main.224b39b3.js",
+    "static/js/453.ed3810f9.chunk.js": "/drawCard/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/drawCard/index.html",
+    "main.21c6c6b3.css.map": "/drawCard/static/css/main.21c6c6b3.css.map",
+    "main.224b39b3.js.map": "/drawCard/static/js/main.224b39b3.js.map",
+    "453.ed3810f9.chunk.js.map": "/drawCard/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c6c6b3.css",
+    "static/js/main.224b39b3.js"
+  ]
+}
